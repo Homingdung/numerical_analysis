@@ -1,3 +1,4 @@
+![matlab](https://img.shields.io/badge/matlab-numerical%20anaylsis-brightgreen)
 # numerical_analysis
 
 The four course works are based on *MATH2019 Introduction to Scientific Computing*, School of Mathematical Sciences, University of Nottingham, UK.
